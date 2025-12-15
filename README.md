@@ -1,6 +1,6 @@
 # Nihal_Abdulla_Portfolio
 
-# 👋 Hi, I'm Boniface Boben  
+# 👋 Hi, I'm Nihal Abdulla 
 Data Analyst | Data-Driven Decision Making | Transforming Insights into Impact  
 
 <!--Section 1: Introduction-->
